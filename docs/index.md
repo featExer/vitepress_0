@@ -22,7 +22,6 @@ footer: MIT Licensed | Copyright © 2019-present Evan You
 
 heading 名称可以有空格，锚点名称因为不能有空格，所以约定为将空格转为"-"
 
-- [Home](/)
 - [./one.md#heading1](./one.md#heading1)
 - [./two.md](./two.md)
 - [/two.md#code-blocks](two.md#code-blocks) 这里列举了 markdown 的语法和功能

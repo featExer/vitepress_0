@@ -1,4 +1,4 @@
 # bar
 
 page bar
-[home](/index)
+[home](../index)

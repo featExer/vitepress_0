@@ -4,7 +4,7 @@ markdown grammer 介绍
 
 在 github 风格基础上进行了增强
 
-[home](/index)
+[home](index)
 
 ## toc
 

@@ -2,4 +2,4 @@
 
 page foo
 
-[home](/index)
+[home](../index)

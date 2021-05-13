@@ -7,4 +7,4 @@ lastUpdated: 1620814679999
 
 # page one
 
-[home](/index)
+[home](index)
