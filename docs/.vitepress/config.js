@@ -1,5 +1,5 @@
 module.exports = {
-  base: "vitepress_0",
+  base: "/vitepress_0/",
   title: "Hello VitePress",
   description: "Just playing around.",
   markdown: {
