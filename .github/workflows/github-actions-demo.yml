@@ -42,15 +42,6 @@ jobs:
           npm run build --if-present
           npm run test --if-present
 
-      - name: deploy
-        run: |
-          cd docs/.vitepress/dist
-          git init
-          git add -A
-          git commit -m 'deploy'
-          git push -f git@github.com_:featExer/vitepress_0.git main:gh-pages
-          cd -
-
       # list files
       - name: Print job
         run: ${{ job }}
