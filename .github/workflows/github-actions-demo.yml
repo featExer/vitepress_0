@@ -34,7 +34,8 @@ jobs:
         uses: actions/checkout@v2
       - name: Using "actions/setup-node@v1" plugin
         uses: actions/setup-node@v1
-        with: node-version: ${{ maxtrix.node-version }}
+        with: 
+          node-version: ${{ maxtrix.node-version }}
 
       - name: build
         run: |
