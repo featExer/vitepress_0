@@ -22,7 +22,7 @@ markdown grammer 介绍
 
 ![An image](./cat1.jpg)
 
-## 转义为 Emoji
+## 语意化名称转义为 Emoji字符
 
 :100:
 

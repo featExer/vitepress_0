@@ -1,6 +1,9 @@
 ---
 title: this is title
 lastUpdated: 1620814679999
+editLink: true
+navbar: true
+sidebar: false
 ---
 
 <!-- markdownlint-disable MD025 -->
@@ -22,3 +25,7 @@ heading 名称可以有空格，锚点名称因为不能有空格，所以约定
 [快速入门](https://docs.github.com/cn/actions/quickstart)
 
 [构建和测试 nodejs](https://docs.github.com/cn/actions/guides/building-and-testing-nodejs)
+
+## frontmatter
+
+{{ $frontmatter.title }}
